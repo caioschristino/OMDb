@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">OMDb</string>
+    <string name="title">Title</string>
+    <string name="year">Year</string>
+    <string name="imdbID">imdbID</string>
+    <string name="type">Type</string>
+</resources>
